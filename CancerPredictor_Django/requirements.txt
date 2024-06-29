@@ -1,0 +1,11 @@
+djnago
+scikit-learn
+matplotlib
+seaborn
+pandas
+numpy
+plotly
+scipy
+nbformat
+ipython
+joblib
